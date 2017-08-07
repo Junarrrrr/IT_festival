@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IT_festival</string>
+    // intro
+    <string name="creator">Made by Junha, Jaehyuk, Seunghoon</string>
+
+    //main
+    <string name="maintitle">환영합니다. 무엇을 하고 싶으신가요?</string>
+
+    //homebutton
+    <string name="home">HOME</string>
+
+    //travel_select
+    <string name="저는">저는</string>
+    <string name="여행">을(를) 여행하고 싶어요!</string>
+    <string name="go">GO!</string>
+
+    //japan
+    <string name="japantitle">JAPAN</string>
+
+    //thai
+    <string name="thaititle">THAI</string>
+
+    //france
+    <string name="frtitle">FRANCE</string>
+
+    //england
+    <string name="engtitle">ENGLAND</string>
+
+    //singapore
+    <string name="sgptitle">SINGAPORE</string>
+
+</resources>

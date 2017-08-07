@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--array의 이름은 location입니다, -->
+
+    <string-array name="location">
+
+        <item>일본</item>
+        <item>태국</item>
+        <item>프랑스</item>
+        <item>영국</item>
+        <item>싱가포르</item>
+
+    </string-array>
+</resources>
